@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my base. I Hope you click on my profile for a reason, you can read the below details to know a short summary about me and what i have been doing. 
+Welcome to my base. I know you click on my profile for a reason, you can read the below details to know a short summary about me and what i have been doing. 
 
 - 🔭 I’m currently working on Javascript,React,Typescript
 - 🌱 I’m currently learning System Design Fundamentals
